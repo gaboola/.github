@@ -12,8 +12,3 @@ assignees: ''
 - [ ] Task 2
 
 ---
-
-## Request Source
-- [ ] Email
-- [ ] WhatsApp
-- [ ] Meeting (call, physical, online, etc)
