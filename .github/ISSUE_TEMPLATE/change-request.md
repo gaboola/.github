@@ -10,5 +10,3 @@ assignees: ''
 ## To Do
 - [ ] Task 1
 - [ ] Task 2
-
----
